@@ -1,0 +1,14 @@
+{
+  "name": "jobshout",
+  "version": "1.0.0",
+  "description": "jobsite website",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Neha Kapoor",
+  "license": "ISC"
+}
